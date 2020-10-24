@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=NonPlayer
+comment0.text=\r\n\ The\ NonPlayer\ class\ defines\ the\ attributes\ of\ a\ NonPlayer\ in\ the\ game.\r\n\r\n\ Bilal\ Kaaouachi\r\n\ Version\ 1\:\ 20.02.2020\r\n
+comment1.params=NPname\ NPcpoint\ NPstamina
+comment1.target=NonPlayer(java.lang.String,\ int,\ int)
+comment2.params=status
+comment2.target=void\ convincedSetter(boolean)
+comment3.params=
+comment3.target=boolean\ convincedGetter()
+comment4.params=attackName
+comment4.target=int\ attackPowerGetter(java.lang.String)
+comment5.params=attackName\ enemy
+comment5.target=void\ performAttack(java.lang.String,\ Character)
+numComments=6

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=NormalPlayer
+comment1.params=Pname\ Pcpoint\ Pstamina\ isSick
+comment1.target=NormalPlayer(java.lang.String,\ int,\ int,\ int)
+comment2.params=attackName\ enemy
+comment2.target=void\ performAttack(java.lang.String,\ Character)
+numComments=3

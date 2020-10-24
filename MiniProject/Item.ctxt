@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Item
+comment1.params=
+comment1.target=Item()
+comment2.params=
+comment2.target=ItemType\ itemGetter()
+comment3.params=item
+comment3.target=java.lang.String\ itemNameGetter(ItemType)
+comment4.params=item
+comment4.target=int\ itemValueGetter(ItemType)
+comment5.params=
+comment5.target=boolean\ itemTakenStatusGetter()
+comment6.params=status
+comment6.target=void\ itemTakenStatusSetter(boolean)
+numComments=7

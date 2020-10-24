@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GameOverGUI
+comment1.params=win_lose
+comment1.target=GameOverGUI(boolean)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GameOverGUI\r\n
+numComments=2

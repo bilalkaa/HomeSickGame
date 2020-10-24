@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=FriendlyPlayer
+comment1.params=FPname\ FPcpoint\ FPstamina
+comment1.target=FriendlyPlayer(java.lang.String,\ int,\ int)
+comment2.params=amount
+comment2.target=void\ friendHelpSetter(int)
+comment3.params=
+comment3.target=int\ friendHelpGetter()
+comment4.params=attackName
+comment4.target=int\ attackPowerGetter(java.lang.String)
+numComments=5

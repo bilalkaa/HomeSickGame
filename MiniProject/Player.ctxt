@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=Pname\ Pcpoint\ Pstamina\ sickStatus
+comment1.target=Player(java.lang.String,\ int,\ int,\ int)
+comment2.params=status
+comment2.target=void\ caughtSetter(boolean)
+comment3.params=
+comment3.target=boolean\ caughtGetter()
+comment4.params=attackName
+comment4.target=int\ attackPowerGetter(java.lang.String)
+comment5.params=attackName\ enemy
+comment5.target=void\ performAttack(java.lang.String,\ Character)
+comment6.params=attackName
+comment6.target=boolean\ attackExist(java.lang.String)
+comment7.params=
+comment7.target=int\ isSickGetter()
+numComments=8
